@@ -11,4 +11,15 @@
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/workspace/code/mine/akka-clustering" value="1430218212000" />
+        <entry key="/Volumes/CaseSensitiveImage/code/github/akka-sample-cluster-java" value="1430470656000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
 </project>

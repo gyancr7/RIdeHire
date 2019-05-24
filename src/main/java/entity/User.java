@@ -1,17 +1,19 @@
+package entity;
+
 import java.util.UUID;
 
 public class User{
 
-    String userId;
-    String userName;
-    Location location;
+    public String userId;
+    public String userName;
+    public Location location;
 
-    User(String userName) {
+    public User(String userName) {
         this.userId = UUID.randomUUID().toString();
         this.userName = userName;
     }
 
-    void setLocation(int latitude, int longitude) {
+    public void setLocation(int latitude, int longitude) {
         Location location = new Location(latitude,longitude);
         this.location = location;
     }
