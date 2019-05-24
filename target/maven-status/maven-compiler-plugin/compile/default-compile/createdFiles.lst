@@ -1,0 +1,10 @@
+application/BookRideConfiguration.class
+entity/Location.class
+application/BookRideApplication.class
+entity/Driver.class
+services/BookRideService.class
+entity/User.class
+application/BookRide.class
+entity/Endpoints.class
+resources/BookRideResource.class
+request/InputDetails.class
